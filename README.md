@@ -1,0 +1,2 @@
+# QwirkleBlueTeam
+Plays Qwirkle
